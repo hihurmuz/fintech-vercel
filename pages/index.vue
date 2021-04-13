@@ -14,7 +14,7 @@
           target="_blank"
           class="button--green"
         >
-          Documentation
+        documen
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
@@ -25,6 +25,8 @@
         </a>
       </div>
     </div>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur dolorem quaerat voluptates facilis, placeat, ad voluptatum voluptate, quidem earum tenetur dicta magni aliquam accusamus tempora veniam. Repellat animi velit molestias.
+
   </div>
 </template>
 
